@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851291022594",
+    "project_id": "techsupporthubapp",
+    "storage_bucket": "techsupporthubapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851291022594:android:849a84130addd5f4458e1b",
+        "android_client_info": {
+          "package_name": "com.example.techsupporthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JbYOG4hzfumNh1fBCwN2plydRYT8QhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
